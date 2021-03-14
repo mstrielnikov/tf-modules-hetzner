@@ -1,2 +1,2 @@
 variable "name" { type = string}
-variable "cidr" { type = string }
+variable "ip_range" { type = string }
